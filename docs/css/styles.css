@@ -1,0 +1,125 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", SansSerif;
+}
+
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#top{
+    height: 135px;
+    line-height: 135px;
+}
+
+#logo{
+    height: 135px;
+}
+
+#footer{
+    height: 100px;
+    line-height: 100px;
+}
+
+#sideBox{
+    padding: 18px;
+}
+
+#mainImage{
+    background-image: url("../images/browser.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#calltoaction{
+    height: 700px;
+    width: 960px;
+}
+
+#calltoactionText{
+    position: relative;
+}
+
+#calltoactionText h1, h3{
+    position: relative;
+    top: 138px;
+}
+
+#table{
+    margin-bottom: 120px;
+}
+
+.blackBackground{
+    background-color: black;
+}
+
+.blueText{
+    color: blue;
+}
+
+.whiteText{
+    color: white;
+}
+
+.goldenSmall{
+    width: 329px;
+}
+
+.goldenBig{
+    width: 600px;
+}
+
+.wrapperPaddingRight{
+    padding-right: 31px;
+}
+
+.displayInline{
+    display: inline;
+}
+
+.textRight{
+    text-align: right;
+}
+
+.texCenter{
+    text-align: center;
+}
+
+.floatLeft{
+    float: left;
+}
+
+.clearFix{
+    clear: both;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.clearMargin{
+    margin: 0px;
+}
+
+.clearPadding{
+    padding: 0px;
+}
+
+.thinBorder{
+    border: 1px black solid;
+}
+
+.contentMargin{
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.contentText{
+    margin-left: 31px;
+}
+
+.marginCenter{
+    margin-right: auto;
+    margin-left: auto;
+}
