@@ -43,7 +43,7 @@ body {
 
 #calltoactionText h1, h3{
     position: relative;
-    top: 138px;
+    top: 300px;
 }
 
 #table{
@@ -122,4 +122,20 @@ body {
 .marginCenter{
     margin-right: auto;
     margin-left: auto;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    text-decoration-color: black;
 }
