@@ -226,3 +226,7 @@ a:link, a:visited {
     position: relative;
     border-radius: 6px;
 }
+
+.verticalCenter {
+    padding-top: 50px;
+}
